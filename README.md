@@ -28,8 +28,8 @@ sudo apt install hadoop spark
 
 Clone this repository
 
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
+git clone https://github.com/ColdWistler/BigDataAssignment2
+cd BigDataAssignment2
 
 Run PySpark for Data Cleaning & Processing
 

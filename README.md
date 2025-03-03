@@ -64,9 +64,7 @@ Results & Insights
 
 Contributors
 
-    [Your Name]
-    [Team Member 2]
-    [Team Member 3]
+
 
 License
 

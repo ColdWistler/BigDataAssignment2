@@ -1,4 +1,4 @@
-#Big Data Technologies - Healthcare Data Analysis
+# Big Data Technologies - Healthcare Data Analysis
 #Overview
 
 This project is developed as part of ITS66904: Big Data Technologies coursework. The objective is to analyze healthcare datasets using Hadoop, PySpark, and Hive to extract insights on patient care, resource allocation, and predictive healthcare.
